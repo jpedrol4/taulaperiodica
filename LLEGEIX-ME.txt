@@ -1,0 +1,12 @@
+ATLES DELS ELEMENTS · 3r i 4t d’ESO
+
+Descomprimeix el ZIP i obre index.html amb el navegador.
+Mantén index.html, style.css i app.js dins de la mateixa carpeta.
+
+FITXERS
+index.html: estructura i continguts del web.
+style.css: disseny i adaptació a mòbils.
+app.js: dades dels elements i activitats interactives.
+
+Pots editar els fitxers amb qualsevol editor de text o de codi.
+Per publicar-lo en un allotjament estàtic, puja els tres fitxers junts.
